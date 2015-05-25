@@ -1,0 +1,14 @@
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\config\PersistenceContext.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\controller\SorteioController.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\model\service\usuario\Usuarios.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\model\entities\usuario\UsuarioBuilder.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\model\repositories\usuario\UsuarioRepository.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\model\service\usuario\UsuariosImpl.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\controller\UsuarioController.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\SpringBootRun.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\controller\EmailController.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\config\MailConfiguration.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\model\entities\usuario\Usuario.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\config\WebConfig.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\model\entities\DefaultEntity.java
+C:\Users\LuizFrancisco\Desktop\Vinicius\amigo-secreto-master\server\src\main\java\br\com\amigo\secreto\controller\util\CORSFilter.java
